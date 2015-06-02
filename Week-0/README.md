@@ -20,9 +20,12 @@
 (8) Module 8: Looking Forward
 <br>
 <br>
-<b>Ceritificates:</b>
+<b>Certificates:</b>
 ```
 Does Princeton University award credentials or reports regarding my work in this course?
 
 No certificates, statements of accomplishment or other credentials will be awarded in connection with this course.
+```
+```
+Knowledge-gaining course for curious minds.
 ```
