@@ -18,3 +18,11 @@
 (6) Module 6: Programming SDNs <br>
 (7) Module 7: Use Cases <br>
 (8) Module 8: Looking Forward
+<br>
+<br>
+<b>Ceritificates:</b>
+```
+Does Princeton University award credentials or reports regarding my work in this course?
+
+No certificates, statements of accomplishment or other credentials will be awarded in connection with this course.
+```
