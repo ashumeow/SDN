@@ -18,8 +18,12 @@
 (6) Module 6: Programming SDNs <br>
 (7) Module 7: Use Cases <br>
 (8) Module 8: Looking Forward
-<br>
-<br>
+```
+Official Github repository:
+
+https://github.com/PrincetonUniversity/Coursera-SDN
+
+```
 <b>Certificates:</b>
 ```
 Does Princeton University award credentials or reports regarding my work in this course?
